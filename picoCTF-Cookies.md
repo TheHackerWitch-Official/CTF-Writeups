@@ -32,7 +32,7 @@ Save the script as "cookie.sh"
     
 To run the above script, execute the following in your Linux CLI: `chmod +x cookie.sh && ./cookie.sh | grep -oE "picoCTF{.*}" > flag.txt`
 
-Scroll through the output until you find the flag.
+The flag will be saved in a text file called *flag.txt.*
 
 ## Flag
 ##### picoCTF{3v3ry1_l0v3s_c00k135_96cdadfd}
