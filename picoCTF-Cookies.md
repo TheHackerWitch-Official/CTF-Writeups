@@ -7,7 +7,7 @@ Who doesn't love cookies? Try to figure out the best one. http://mercury.picoctf
 To solve this problem, you'll have to understand what a HTTP cookie is and will need the ability to view your current cookie. 
 
 ### Did Someone Say Cookies?
-HTTP cookies are key-value pairs that are used to identify your device as you browse a website. They're used to identify users. A cookie is unique to a user's session.
+HTTP cookies are key-value pairs that are used to identify your device as you browse a website. A cookie is unique to a user's session.
 
 ### How To View Your Cookie
 You have a few different options to view your current cookie. I chose to use [EditThisCookie](http://www.editthiscookie.com/). 
@@ -16,7 +16,7 @@ It's a browser extension that allows you to view and modify cookie properties. T
 ## The Solution
 When you view your cookie on the main page, your cookie will have a value of *-1*. 
 You'll also see that "snickerdoodle" is the default text in the searchbar. Submit "snickerdoodle" to the website, and check the cookie on the */check* page once you're redirected.
-It'll have a value of 0. 
+It'll have a value of *0*. 
 
 At this point, I made the assumption that iteration would eventually lead me to the flag. So, I tried to find the max range for the cookies. 
 I did this by guessing. I started with 30, then 25, and iterated up to *28*. There are 29 possible cookies (0-28). One of them contains the flag. 
