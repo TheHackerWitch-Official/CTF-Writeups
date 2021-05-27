@@ -3,5 +3,5 @@ Hi! Welcome to my writeup repo. Here you'll find explanations and guidance on ho
 
 Web Exploitation      | Link
 ----------------------| -----
-picoCTF-2021-Cookies  | [Link](https://github.com/VictoriaGalvan/CTF-Writeups/blob/main/picoCTF-Cookies.md)
+picoCTF-2021-Cookies  | [Link](https://github.com/VictoriaGalvan/CTF-Writeups/blob/main/picoCTF-2021-Cookies.md)
 -----------------------------
