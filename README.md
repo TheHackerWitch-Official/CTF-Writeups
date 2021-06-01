@@ -1,5 +1,5 @@
 # CTF-Writeups
-Hi! Welcome to my writeup repo. Here you'll find explanations and guidance on how to solve some CTF problems. The writeups are categorized below. I hope you enjoy your time here. :)
+Hi! Welcome to my writeup repo. Here you'll find guidance on how to solve some CTF problems. The writeups are categorized below. I hope you enjoy your time here. :)
 
 Reverse Engineering     | Link
 ----------------------- | -----
