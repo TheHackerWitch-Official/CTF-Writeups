@@ -24,11 +24,13 @@ I did this by guessing. I started with 30, then 25, and iterated up to *28*. The
 I wrote a BASH script to iterate through the possible cookies and identify which one had the flag. The code is below. 
 Save the script as "cookie.sh"
 
+```bash
     #!/bin/bash
     for i in {0..28}
     do
         curl --cookie "name=$i" "http://mercury.picoctf.net:54219/check"
     done
+```
     
 To run the above script, execute the following in your Linux CLI: `chmod +x cookie.sh && ./cookie.sh | grep -oE "picoCTF{.*}" > flag.txt`
 
