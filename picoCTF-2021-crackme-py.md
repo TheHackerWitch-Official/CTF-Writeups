@@ -5,7 +5,7 @@
 
 ## The Solution
 Once you've downloaded crackme.py, open it in a text editor. The contents of the file are listed below.
-
+```python
     # Hiding this really important number in an obscure piece of code is brilliant!
     # AND it's encrypted!  
     # We want our biggest client to know his information is safe with us.
@@ -60,7 +60,7 @@ Once you've downloaded crackme.py, open it in a text editor. The contents of the
 
 
     choose_greatest()
-
+```
 
 Take note of the following: 
 1. There is a secret in the code (bezos_cc_secret)
