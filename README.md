@@ -3,13 +3,14 @@ Hi! Welcome to my writeup repo. Here you'll find guidance on how to solve some C
 
 Reverse Engineering     | Link
 ----------------------- | -----
-picoCTF-2021-crackme-py | [Link](https://github.com/VictoriaGalvan/CTF-Writeups/blob/main/picoCTF-2021-crackme-py.md)
+PicoCTF 2021 crackme-py | [Link](https://github.com/VictoriaGalvan/CTF-Writeups/blob/main/picoCTF-2021-crackme-py.md)
 
 
 
 
 Web Exploitation        | Link
 ----------------------- | -----
-picoCTF-2021-Cookies    | [Link](https://github.com/VictoriaGalvan/CTF-Writeups/blob/main/picoCTF-2021-Cookies.md)
+GoogleCTF Pasteurize | [Link](https://github.com/VictoriaGalvan/CTF-Writeups/blob/main/GoogleCTF-web-pasteurize.md)
+PicoCTF 2021 Cookies    | [Link](https://github.com/VictoriaGalvan/CTF-Writeups/blob/main/picoCTF-2021-Cookies.md)
 
 
