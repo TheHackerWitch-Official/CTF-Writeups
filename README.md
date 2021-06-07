@@ -10,7 +10,7 @@ PicoCTF 2021 crackme-py | [Link](https://github.com/VictoriaGalvan/CTF-Writeups/
 
 Web Exploitation        | Link
 ----------------------- | -----
-GoogleCTF Pasteurize | [Link](https://github.com/VictoriaGalvan/CTF-Writeups/blob/main/GoogleCTF/GoogleCTF-web-pasteurize.md)
+GoogleCTF 2020 Pasteurize | [Link](https://github.com/VictoriaGalvan/CTF-Writeups/blob/main/GoogleCTF/GoogleCTF-web-pasteurize.md)
 PicoCTF 2021 Cookies    | [Link](https://github.com/VictoriaGalvan/CTF-Writeups/blob/main/PicoCTF/picoCTF-2021-Cookies.md)
 
 
